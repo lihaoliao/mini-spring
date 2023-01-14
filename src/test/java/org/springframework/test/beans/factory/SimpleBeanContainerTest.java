@@ -29,5 +29,4 @@ public class SimpleBeanContainerTest {
             return "hello";
         }
     }
-
 }

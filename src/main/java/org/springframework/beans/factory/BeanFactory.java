@@ -22,5 +22,4 @@ public class BeanFactory {
     public Object getBean(String name){
         return beanObjects.get(name);
     }
-
 }
